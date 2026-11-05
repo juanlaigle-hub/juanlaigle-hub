@@ -4,6 +4,7 @@ I build physics-based models and turn them into tools people use:
 nuclear safety analysis, process simulation and optimization, and machine learning that respects the physics.
 
 - **Nuclear safety:** Level 1 deterministic safety analysis, RELAP plant transient models, 3D boron benchmarks (CNEA CAREM25, Meitner Energy ARC300)
+  - Currently building the coupling chain **CASMO → NESTLE / RELAP5-3D**: lattice cross sections feeding 3D core neutronics coupled with system thermal-hydraulics
 - **Process modeling and optimization:** large-scale dynamic NLP in Pyomo/IPOPT, DAE, homotopy initialization
 - **Data science and ML:** physics-informed features, gray-box models, soft sensors, honest validation
 - **Products in production:** [DeltaPorPi](https://www.deltaporpi.com) (AI-tutored learning platform) and a payroll SaaS for accounting firms

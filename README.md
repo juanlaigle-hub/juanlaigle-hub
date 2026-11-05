@@ -12,8 +12,8 @@ nuclear safety analysis, process simulation and optimization, and machine learni
 
 | Project | What it shows |
 |---|---|
-| [Industrial ML with physics](https://github.com/juanlaigle-hub/MachineLearningApplications) | Fault diagnosis at 98.7 % accuracy and a °Brix soft sensor, trained on validated simulators · [live](https://juanlaigle-hub.github.io/MachineLearningApplications/) |
-| [Simulations3D](https://github.com/juanlaigle-hub/Simulations3D) | Five real-time process and control simulators in the browser · [live](https://juanlaigle-hub.github.io/Simulations3D/) |
+| [Industrial ML with physics](https://github.com/juanlaigle-hub/MachineLearningApplications) | Fault diagnosis at 98.7 % accuracy and a °Brix soft sensor, trained on validated simulators · [request a demo](mailto:juanlaigle@gmail.com?subject=Demo%3A%20Industrial%20ML%20with%20physics) |
+| [Simulations3D](https://github.com/juanlaigle-hub/Simulations3D) | Five real-time process and control simulators in the browser · [live CSTR demo](https://juanlaigle-hub.github.io/Simulations3D/hmi/assets/cstr_3d.html) · [request a demo of the others](mailto:juanlaigle@gmail.com?subject=Demo%3A%20Simulations3D) |
 | [Cryogenic separation in Pyomo](https://github.com/juanlaigle-hub/cryogenic-separation-pyomo) | Plant-wide dynamic optimization, ~55,000 variables |
 | [Payroll engine](https://github.com/juanlaigle-hub/motor-liquidacion) | A formula language built from scratch, exact decimal math, CI |
 | [E. coli metabolic map](https://github.com/juanlaigle-hub/metabolic-network-visualization) | pFBA on a genome-scale model · [live](https://juanlaigle-hub.github.io/metabolic-network-visualization/red_metabolica.html) |

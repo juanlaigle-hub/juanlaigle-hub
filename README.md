@@ -6,12 +6,14 @@ nuclear safety analysis, process simulation and optimization, and machine learni
 - **Nuclear safety:** Level 1 deterministic safety analysis, RELAP plant transient models, 3D boron benchmarks (CNEA CAREM25, Meitner Energy ARC300)
 - **Process modeling and optimization:** large-scale dynamic NLP in Pyomo/IPOPT, DAE, homotopy initialization
 - **Data science and ML:** physics-informed features, gray-box models, soft sensors, honest validation
+- **Products in production:** [DeltaPorPi](https://www.deltaporpi.com) (AI-tutored learning platform) and a payroll SaaS for accounting firms
 - **Software:** Python, TypeScript, SQL, CI/CD, production SaaS
 
 #### Featured
 
 | Project | What it shows |
 |---|---|
+| [DeltaPorPi](https://www.deltaporpi.com) | Education platform with an AI tutor that personalizes learning for each student · **in production** |
 | [Industrial ML with physics](https://github.com/juanlaigle-hub/MachineLearningApplications) | Fault diagnosis at 98.7 % accuracy and a °Brix soft sensor, trained on validated simulators · [request a demo](mailto:juanlaigle@gmail.com?subject=Demo%3A%20Industrial%20ML%20with%20physics) |
 | [Simulations3D](https://github.com/juanlaigle-hub/Simulations3D) | Five real-time process and control simulators in the browser · [live CSTR demo](https://juanlaigle-hub.github.io/Simulations3D/hmi/assets/cstr_3d.html) · [request a demo of the others](mailto:juanlaigle@gmail.com?subject=Demo%3A%20Simulations3D) |
 | [Cryogenic separation in Pyomo](https://github.com/juanlaigle-hub/cryogenic-separation-pyomo) | Plant-wide dynamic optimization, ~55,000 variables |

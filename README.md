@@ -20,4 +20,19 @@ nuclear safety analysis, process simulation and optimization, and machine learni
 | [Payroll engine](https://github.com/juanlaigle-hub/motor-liquidacion) | A formula language built from scratch, exact decimal math, CI |
 | [E. coli metabolic map](https://github.com/juanlaigle-hub/metabolic-network-visualization) | pFBA on a genome-scale model · [live](https://juanlaigle-hub.github.io/metabolic-network-visualization/red_metabolica.html) |
 
+#### Industry projects
+
+Built for companies and institutions in oil & gas, food processing and agriculture. Source code is private; [write to me](mailto:juanlaigle@gmail.com?subject=Project%20details) for details or a demo.
+
+| Area | Project | What it does |
+|---|---|---|
+| Logistics | **Route optimization (VRP)** | Vehicle routing with Google OR-Tools: time windows, real geographic constraints and exported plans for distribution companies |
+| Oil & gas | **Engineering calculation platform** | Thermodynamic flash, P-T envelopes, hydrate formation, flow assurance and facilities calculations with interactive visualization |
+| Predictive maintenance | **Vibration monitoring with deep learning** | Learns each machine's vibration signature, detects progressive wear and filters false alarms to prevent unplanned shutdowns |
+| Predictive maintenance | **Acoustic measurement PWA** | Noise measurement from the device microphone with Web Audio API and FFT, per-device offset, history and alerts above 85 dBA, built for an evaporation area |
+| Food safety | **FSSC 22000 audit app** | Digital quality-management audits with automated data collection, replacing manual entry and supporting food-safety compliance |
+| Industrial AI | **AI support portals** | Support portals with data processing for food, chemical and petrochemical plants, turning large information volumes into automated answers and analytics |
+| Agriculture | **Digital temperature survey (INTA)** | Collection of temperature and climate data in Alto Valle and Valle Medio with a georeferenced thermal coverage map for agribusiness risk mitigation |
+| Agriculture | **Dosis Valle** | Offline Flutter app for fruit growers: agrochemical dose calculator with safety indicator, plot georeferencing and double confirmation of deviations |
+
 [LinkedIn](https://www.linkedin.com/in/juanlaiglecia) · [Ingeniería VR](https://www.ingenieriavr.com) · Open to remote roles

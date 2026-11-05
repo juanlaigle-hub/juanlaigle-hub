@@ -16,6 +16,7 @@ nuclear safety analysis, process simulation and optimization, and machine learni
 |---|---|
 | [DeltaPorPi](https://www.deltaporpi.com) | Education platform with an AI tutor that personalizes learning for each student · **in production** |
 | [Industrial ML with physics](https://github.com/juanlaigle-hub/MachineLearningApplications) | Fault diagnosis at 98.7 % accuracy and a °Brix soft sensor, trained on validated simulators · [request a demo](mailto:juanlaigle@gmail.com?subject=Demo%3A%20Industrial%20ML%20with%20physics) |
+| [Delivery routing in Neuquén](https://github.com/juanlaigle-hub/vrp-neuquen) | VRP with time windows in OR-Tools: −22 % km and no late deliveries vs. a manual plan, plus live re-routing after a truck breakdown · [live](https://juanlaigle-hub.github.io/vrp-neuquen/) |
 | [Simulations3D](https://github.com/juanlaigle-hub/Simulations3D) | Five real-time process and control simulators in the browser · [live CSTR demo](https://juanlaigle-hub.github.io/Simulations3D/hmi/assets/cstr_3d.html) · [request a demo of the others](mailto:juanlaigle@gmail.com?subject=Demo%3A%20Simulations3D) |
 | [Cryogenic separation in Pyomo](https://github.com/juanlaigle-hub/cryogenic-separation-pyomo) | Plant-wide dynamic optimization, ~55,000 variables |
 | [Payroll engine](https://github.com/juanlaigle-hub/motor-liquidacion) | A formula language built from scratch, exact decimal math, CI |
@@ -27,7 +28,7 @@ Built for companies and institutions in oil & gas, food processing and agricultu
 
 | Area | Project | What it does |
 |---|---|---|
-| Logistics | **Route optimization (VRP)** | Vehicle routing with Google OR-Tools: time windows, real geographic constraints and exported plans for distribution companies |
+| Logistics | **Route optimization (VRP)** | Vehicle routing with Google OR-Tools: time windows, real geographic constraints and exported plans for distribution companies · [public demo in Neuquén](https://github.com/juanlaigle-hub/vrp-neuquen) |
 | Oil & gas | **Engineering calculation platform** | Thermodynamic flash, P-T envelopes, hydrate formation, flow assurance and facilities calculations with interactive visualization |
 | Predictive maintenance | **Vibration monitoring with deep learning** | Learns each machine's vibration signature, detects progressive wear and filters false alarms to prevent unplanned shutdowns |
 | Predictive maintenance | **Acoustic measurement PWA** | Noise measurement from the device microphone with Web Audio API and FFT, per-device offset, history and alerts above 85 dBA, built for an evaporation area |
